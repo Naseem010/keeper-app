@@ -28,4 +28,4 @@ return prevNotes.filter((noteItem,index)=>{
     </div>
  );
 }
-export default App;
+export default App; 
